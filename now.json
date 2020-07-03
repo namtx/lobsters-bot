@@ -1,0 +1,6 @@
+{
+  "env": {
+      "TELEGRAM_BOT_TOKEN": "@telegram_bot_token",
+      "CHAT_ID": "@chat_id"
+  }
+}
